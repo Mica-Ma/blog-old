@@ -10,6 +10,10 @@
 
 [如何搭建基于 Hexo 的独立博客](https://xaoxuu.com/blog/2017-07-05-hexo-blog/)
 
+[hexo博客框架环境搭建，并使用next主题打造精美的个人博客网站](https://www.qcmoke.site/blog/hexo_next.html)
+
+[Hexo+NexT 打造一个炫酷博客](http://xyua.top/Hexo/hexo_next_blog.html)
+
 ## API
 
 [hexo](https://hexo.io/zh-cn/)
