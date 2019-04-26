@@ -1,6 +1,6 @@
 ## 站点设置
-title: Mica的BLOG
-subtitle: 成為一個厲害得普通人
+title: Mica's BLOG
+subtitle: 好记性不如烂笔头，勤动口不如勤动手！
 description: 小人物,码农
 keywords:
 author: Mica Ma
@@ -12,7 +12,7 @@ theme: next
 
 # 博客地址
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://sun-xyu.github.io/
+url: https://sun-xyu.github.io1/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
