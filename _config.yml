@@ -13,7 +13,7 @@ theme: next
 # 博客地址
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://sun-xyu.github.io1/
-root: /
+root: ./
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
