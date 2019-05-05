@@ -4,6 +4,8 @@
 
 ## 产考
 
+[Hexo+NexT 打造一个炫酷博客](http://xyua.top/Hexo/hexo_next_blog.html)
+
 [基于Hexo搭建个人博客——进阶篇(从入门到入土)](https://yangbingdong.com/2017/build-blog-hexo-advanced/)
 
 [打造个性超赞博客Hexo+NexT+GitHubPages的超深度优化](https://yangbingdong.com/2017/build-blog-hexo-advanced/)
