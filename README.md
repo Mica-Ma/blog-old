@@ -10,6 +10,8 @@
 
 [如何搭建基于 Hexo 的独立博客](https://xaoxuu.com/blog/2017-07-05-hexo-blog/)
 
+[使用gh-pages+Hexo搭建个人网页教程](https://ngwind.github.io/2018/07/27/%E4%BD%BF%E7%94%A8gh-pages+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E9%A1%B5%E6%95%99%E7%A8%8B/)
+
 ## API
 
 [hexo](https://hexo.io/zh-cn/)
